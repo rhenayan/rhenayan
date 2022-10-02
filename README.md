@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenayan&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenayan&include_all_commits=true&count_private=true&hide=stars,prs,contribs&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhenayan&show_icons=true&theme=dracula" alt="rhenayan" /></p>
