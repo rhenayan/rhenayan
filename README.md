@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhea. </h1>
-<h3 align="center">A Frontend React developer</h3>
-
-<h4 align="left">🤓ABOUT ME</h4>
-
-<p>⭐ Looking forward to start my professional career as a Software Developer </p>
-<p>🔭 I’m currently working on  Frontend Development Projects in React </p>
-<p>👯 I’m looking to collaborate on awesome frontend development projects.</p>
-
-
+<h3 align="center">A Frontend Developer</h3>
 
 <br/>
 
