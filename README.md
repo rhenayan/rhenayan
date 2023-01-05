@@ -3,7 +3,7 @@
 
 <br/>
 
-<h4 align="left">🔨 TECHNOLOGIES I WORK WITH </h4>
+<h4 align="left">🔨 TECHNOLOGIES: </h4>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<h4 align="left">🔧 TOOLS I USE </h4>
+<h4 align="left">🔧 TOOLS: </h4>
 
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -38,11 +38,7 @@
 <img align="center" margin='5px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhenayan&layout=compact&exclude_repo=coffeeholic,BagAholic-ecommerce,front-end-dev-projects,edie,urban-energy,BagAholic-ecommerce,landingPage-consultingAgency,Digital-Agency&show_icons=true&theme=dracula" /> 
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhenayan&include_all_commits=true&count_private=true&hide=stars,prs,contribs&show_icons=true&theme=dracula" />
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhenayan&show_icons=true&theme=dracula" alt="rhenayan" /></p>
 
 
 
